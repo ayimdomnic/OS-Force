@@ -1,0 +1,12 @@
+{
+    "name": "ayimdominc/os-force",
+    "description": "A simple OS code base to better my critical thinking",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Odhiambo Dormnic",
+            "email": "ayimdomnic@outlook.com"
+        }
+    ],
+    "require": {}
+}
